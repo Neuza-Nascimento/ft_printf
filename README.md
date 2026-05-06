@@ -136,4 +136,3 @@ Classic references related to the topic:
 *   [The C Standard Library](https://en.wikipedia.org/wiki/C_standard_library)
 *   [Variadic functions in C](https://en.wikipedia.org/wiki/Variadic_function)
 *   [man 3 printf](https://man7.org/linux/man-pages/man3/printf.3.html)
-# ft_printf
